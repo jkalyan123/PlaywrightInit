@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "tests": "playwright test tests/navigate-to-rahulshetty.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
